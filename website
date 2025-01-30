@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>LoserToken - From Losses to Laughs</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background: #f9f9f9;
+            color: #333;
+            text-align: center;
+        }
+        header {
+            background: #ffcc00;
+            padding: 20px;
+        }
+        header h1 {
+            margin: 0;
+            font-size: 2.5rem;
+            color: #333;
+        }
+        nav {
+            margin-top: 10px;
+        }
+        nav a {
+            text-decoration: none;
+            color: #333;
+            margin: 0 15px;
+            font-weight: bold;
+        }
+        section {
+            padding: 20px;
+            max-width: 800px;
+            margin: 0 auto;
+        }
+        .cta-button {
+            display: inline-block;
+            padding: 10px 20px;
+            margin-top: 15px;
+            background: #333;
+            color: #fff;
+            text-decoration: none;
+            font-weight: bold;
+            border-radius: 5px;
+        }
+        .cta-button:hover {
+            background: #555;
+        }
+        footer {
+            background: #333;
+            color: #fff;
+            padding: 10px 0;
+            position: fixed;
+            bottom: 0;
+            width: 100%;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>LoserToken</h1>
+        <nav>
+            <a href="#about">About</a>
+            <a href="#tokenomics">Tokenomics</a>
+            <a href="#roadmap">Roadmap</a>
+            <a href="#contact">Contact</a>
+        </nav>
+    </header>
+
+    <section id="about">
+        <h2>What is LoserToken?</h2>
+        <p>LoserToken is a fun, community-driven meme token inspired by the ups and downs of the crypto world. Join the movement and turn losses into laughs!</p>
+        <a href="#buy" class="cta-button">Buy LoserToken</a>
+    </section>
+
+    <section id="tokenomics">
+        <h2>Tokenomics</h2>
+        <p>Total Supply: 30,009,000,000 Tokens</p>
+        <ul>
+            <li>Owner Share: 40% (Locked)</li>
+            <li>Public Sale: 50%</li>
+            <li>Marketing & Promotions: 10%</li>
+        </ul>
+    </section>
+
+    <section id="roadmap">
+        <h2>Roadmap</h2>
+        <p>Phase 1: Launch & Community Building</p>
+        <p>Phase 2: Listings on Major Exchanges</p>
+        <p>Phase 3: Expand Ecosystem</p>
+    </section>
+
+    <section id="contact">
+        <h2>Contact Us</h2>
+        <p>Email: team@losertoken.com</p>
+        <p>Follow us on Twitter and Telegram!</p>
+    </section>
+
+    <footer>
+        <p>&copy; 2025 LoserToken. All Rights Reserved.</p>
+    </footer>
+</body>
+</html>
